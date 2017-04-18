@@ -1,0 +1,8 @@
+#drag {
+    width: 200px;
+    height: 120px;
+    background-color: #4d4d4d;
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px #555555;
+    cursor: move;
+}
